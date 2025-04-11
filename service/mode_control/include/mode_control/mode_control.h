@@ -10,5 +10,5 @@ public:
     int doStuff(int x);
 
 private:
-    std::int64_t money_;
+    
 };

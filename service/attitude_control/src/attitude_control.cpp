@@ -1,5 +1,7 @@
 #include <attitude_control.h>
 
-Attitude_Control::Attitude_Control() : money_() {}
-
+Attitude_Control::Attitude_Control()
+{
+    
+}
 

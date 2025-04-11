@@ -8,5 +8,5 @@ public:
     explicit Orchestration();
 
 private:
-    std::int64_t money_;
+    
 };
