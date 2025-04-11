@@ -1,0 +1,4 @@
+add_subdirectory(mode_control)
+add_subdirectory(input_control)
+add_subdirectory(attitude_control)
+add_subdirectory(motor_control)
