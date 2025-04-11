@@ -3,4 +3,5 @@ set(SOURCE_FILES
 
 add_executable(avionik-orchestrator ${SOURCE_FILES})
 
+target_link_libraries(avionik-orchestrator LINK_PRIVATE orchestration)
 target_link_libraries(avionik-orchestrator LINK_PRIVATE mode_control)
